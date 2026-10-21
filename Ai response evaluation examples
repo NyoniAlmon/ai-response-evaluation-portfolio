@@ -1,0 +1,40 @@
+# AI Response Evaluation: Business Profit Calculation
+
+## Objective
+To demonstrate the evaluation of an AI-generated answer for mathematical accuracy, relevance, and clarity.
+
+## Question
+A small business earns $500 in revenue and spends $320 on operating expenses. What is its profit?
+
+## AI-Generated Answer
+The profit is $820 because revenue and expenses are added together.
+
+## Evaluation
+
+**Rating: Incorrect**
+
+### Error Identified
+The answer incorrectly adds revenue and expenses instead of subtracting expenses from revenue.
+
+### Correct Calculation
+Profit = Revenue - Expenses
+
+Profit = $500 - $320
+
+Profit = $180
+
+### Corrected Answer
+The business makes a profit of $180.
+
+### Explanation
+Profit is calculated by subtracting expenses from revenue. Adding the two figures produces an incorrect result.
+
+## Skills Demonstrated
+- Mathematical reasoning
+- Error detection
+- AI response evaluation
+- Following evaluation criteria
+- Clear written communication
+
+## Project Type
+Independent practice exercise. This is not paid employment or a claim of professional AI evaluation experience.
